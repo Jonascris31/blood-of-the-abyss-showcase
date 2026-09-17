@@ -1,0 +1,6 @@
+{
+  "name": "Blood of the Abyss — Showcase",
+  "description": "Showcase interativo e simulador técnico de gameplay 2.5D em horror cósmico para Blood of the Abyss (Unreal Engine 5.6)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
